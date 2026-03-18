@@ -1,1 +1,5 @@
 ghcr.io/mhsanaei/3x-ui:latest
+rustdesk/rustdesk-server:latest
+openresty/openresty:latest
+docker:latest
+whyour/qinglong:latest
